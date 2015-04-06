@@ -9,3 +9,12 @@ Interests: Cars, motorcyles, computers, technology, gadgets, sports, food and co
 I am originally from Quincy, MA and currently reside in Kent, WA. I am a proud New England Patriots fan, and was very happy when they won Super Bowl XLIX.
 
 ## **Programming Background**
+### CS classes taken at Oregon State:
+* *CS 161*
+* *CS 162*
+* *CS 225*
+* *CS 261*
+* *CS 271*
+
+### Spring 2015 CS classes:
+* *CS 290*
